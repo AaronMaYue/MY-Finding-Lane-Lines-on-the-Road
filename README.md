@@ -1,10 +1,16 @@
 # Finding Lane Lines on the Road
 ***
 In this project, I use Ipython and OpenCV to identify lane lines on the road and use some methods on a series of individual image, finally I apply on the video clips. the following several steps:
+
 - Pre-processing
 - Color Selection
 - Edge Detection
 - Lane Lines Extrapolate
+
+The Project
+---
+
+If you have already installed the [CarND Term1 Starter Kit](https://github.com/udacity/CarND-Term1-Starter-Kit/blob/master/README.md) you should be good to go!   If not, you should install the starter kit to get started on this project. 
 
 ## Pre-processing
 ### Import packages
